@@ -1,4 +1,4 @@
-### Fala meu povo
+### Hey
 
 - 🔭 I’m currently working on TITAN
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON...
